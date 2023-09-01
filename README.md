@@ -1,5 +1,4 @@
 <h1>Harisha C</h1> 
-<h2>Senior Software Engineer at Tata elxsi</h2>
 
 <h2>Skills</h2>
 <h3>Python</h3>
